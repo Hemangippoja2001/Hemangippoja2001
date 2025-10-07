@@ -1,16 +1,36 @@
-## Hi there 👋
+👋 Hi there, I'm Hemangi Ramesh Chaudhari
 
-<!--
-**Hemangippoja2001/Hemangippoja2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌟 Welcome to my GitHub profile!
+I’m a passionate tech enthusiast with an interest in Cloud Computing, DevOps, and Software Testing.
+I enjoy building, automating, and deploying applications while continuously learning new tools and technologies.
 
-Here are some ideas to get you started:
+🧰 Tools & Technologies
+Tool	Icon
+AWS	
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Git	
+
+GitHub	
+
+Docker	
+
+Linux	
+
+Jenkins	
+💻 Project
+🍽️ Zomato Clone
+
+A web-based application inspired by Zomato, designed to provide food listings, restaurant details, and search functionality.
+Key Highlights:
+
+Built with modern web technologies
+Integrated clean UI for an enhanced user experience
+Demonstrates front-end and back-end coordination
+🎓 About Me
+👩‍🎓 M.Sc. in Computer Science
+💼 Focused on Software Testing and Automation
+🌱 Currently exploring DevOps Tools and Cloud Services
+⚙️ Interested in CI/CD, containerization, and cloud deployment
+📫 Connect with Me
+
+
